@@ -1,0 +1,18 @@
+generated: '2026-07-20'
+method: searched
+probe: true
+url: https://naluri.scrut.io/
+platform: Scrut Trust Vault
+certifications:
+- ISO/IEC 27001
+- HIPAA
+- GDPR
+evidence:
+- source: https://naluri.life
+  kind: homepage-compliance-statement
+  note: 'Homepage states the company is certified for HIPAA, GDPR, and ISO/IEC 27001.'
+- source: https://naluri.scrut.io/
+  kind: trust-center
+  note: 'Hosted Scrut "Trust Vault" trust center (client-side rendered; certification
+    documents are gated behind the vault, cert names sourced from the provider''s
+    own homepage compliance statement).'
